@@ -8,11 +8,13 @@
     "dist": "npm run build && electron-builder"
   },
   "dependencies": {
-    "vue": "^3.2.16"
+    "vue": "^3.2.16",
+    "vuetify": "^3.0.0-alpha.0"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^21.0.0",
     "@vitejs/plugin-vue": "^1.9.3",
+    "@vuetify/vite-plugin": "^1.0.0-alpha.5",
     "electron": "^15.1.2",
     "electron-builder": "^22.13.1",
     "pug": "^3.0.2",

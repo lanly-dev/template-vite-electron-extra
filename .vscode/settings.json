@@ -1,8 +1,10 @@
 {
   "cSpell.words": [
     "asar",
+    "materialdesignicons",
     "vite",
-    "vitejs"
+    "vitejs",
+    "Vuetify"
   ],
   "editor.rulers": [120],
   "explorer.sortOrder": "type"
